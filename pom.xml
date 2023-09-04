@@ -150,8 +150,8 @@
 
          <distributionManagement>
         <repository>
-            <id>maven-releases</id>
-            <url>http://54.159.22.207:8085/repository/maven-releases/</url>
+            <id>docker-deploy</id>
+            <url>http://54.159.22.207:8085/repository/private-docker-registry/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
